@@ -1,0 +1,1402 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1206,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "mgAnvUmqhfUC",
+        "etag": "gumXPiJm0uU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/mgAnvUmqhfUC",
+        "volumeInfo": {
+          "title": "Flutter by",
+          "authors": [
+            "Rev. Eleanor Ditrick",
+            "Chap"
+          ],
+          "publisher": "Dog Ear Publishing",
+          "publishedDate": "2008-12",
+          "description": "\"Flutter by\" began just as its name implies ... with the sharing of little flutters of thought among co-workers and friends. The messages fluttered into their lives quietly and with serenity ... much like the Monarch butterfly -- a personal favorite of mine. My daily messages include a prayer and oftentimes a short story or quotation to show how that reflection applies to our lives and to our humanness. They revolve around the people, places, and particulars in my world -- which are pretty much the same as those in yours. My prayer is that this book helps you through each day with a flutter of thought, a breath of calmness, and a reflection for peace, love, and endurance. I pray that these little thoughts help you smile and see the true beauty of God's touch in each day -- even in those filled with sorrow. For, as we flutter by, we flutter on. Through Flutter by, you'll meet my husband Howard (often referred to as Ole Buckeye ... Ohio State is his alma mater.); our daughters Diane and Lori; and, of course, Chaplain Ditrick the Third (our Shetland sheepdog). Most times, \"Chap\" concludes my prayerful thoughts with a flutter of his own. They usually involve \"treats.\" As a hospital chaplain, I got to know and become close to many of the staff, especially the nurses. One friend in particular was going through a very difficult time in her personal life. She faced continuous challenges and difficult decisions. Often, she confided that she didn't know how or even if she would get through it all. Each time that we talked, I came away feeling that I wanted to be so much more than someone who listened. I wanted to do something to ease her pain. I asked God to guide me to an answer to calm her burden. On one particularly busy day, I knew that our paths would not cross, but I wanted my friend to know that I was thinking about and praying for her. I wrote her a quick little prayer and sent it off through the inner-office mail. (This was before computers!) A few days, later, I sent another prayer ... then another ... and another. When we met up several days later, she thanked me again and again. She told me how much those little prayers meant to her and how she looked forward to receiving them. She asked if she could share them with friends at the hospital. I was touched and said of course! From there, the \"prayer\" mailing list grew to over 300 co-workers and friends. (Thank goodness computers came along!) May you flutter by others as you have fluttered by me.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781598587920"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1598587927"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 292,
+          "printType": "BOOK",
+          "categories": [
+            "Reference"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=mgAnvUmqhfUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=mgAnvUmqhfUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=mgAnvUmqhfUC&pg=PA289&dq=Flutter&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=mgAnvUmqhfUC&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Flutter_by.html?hl=&id=mgAnvUmqhfUC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Flutter_by-sample-epub.acsm?id=mgAnvUmqhfUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Flutter_by-sample-pdf.acsm?id=mgAnvUmqhfUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=mgAnvUmqhfUC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "6kD1EgYmg0YC",
+        "etag": "AI0qs8EDhV8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/6kD1EgYmg0YC",
+        "volumeInfo": {
+          "title": "Flutter Investigation of a True-speed Dynamic Model with Various Tip-tank Configurations",
+          "authors": [
+            "John L. Sewall"
+          ],
+          "publishedDate": "1960",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UIUC:30112106590224"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 80,
+          "printType": "BOOK",
+          "categories": [
+            "Vibration"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=6kD1EgYmg0YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=6kD1EgYmg0YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=6kD1EgYmg0YC&pg=PA36&dq=Flutter&hl=&cd=2&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=6kD1EgYmg0YC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6kD1EgYmg0YC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=6kD1EgYmg0YC&rdid=book-6kD1EgYmg0YC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com/books/download/Flutter_Investigation_of_a_True_speed_Dy.epub?id=6kD1EgYmg0YC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=6kD1EgYmg0YC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Aerodynamic data Frequency data Violent <b>flutter</b> ; symmetric mode involving <br>\nfuselage translation 22 A - .82-1.02 -.38 .85 939 .001516 3.9 No <b>flutter</b> -3.07 A - .<br>\n82-1.02 .651 709 .001873 3.7 A - .82-1.02 .002132 3.1 18.05 15.1 14.9 17.15 25 <br>\nA&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "Tg8Qnm-g83EC",
+        "etag": "GR9UfEWuoyA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Tg8Qnm-g83EC",
+        "volumeInfo": {
+          "title": "Theoretical Investigation of the Subsonic and Supersonic Flutter Characteristics of a Swept Wing Employing a Tuned Sting-mass Flutter Suppressor",
+          "authors": [
+            "E. Carson Yates"
+          ],
+          "publishedDate": "1960",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UIUC:30112106917138"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 45,
+          "printType": "BOOK",
+          "categories": [
+            "Loads (Mechanics)"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.2.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Tg8Qnm-g83EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Tg8Qnm-g83EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=Tg8Qnm-g83EC&pg=PA10&dq=Flutter&hl=&cd=3&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=Tg8Qnm-g83EC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Tg8Qnm-g83EC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=Tg8Qnm-g83EC&rdid=book-Tg8Qnm-g83EC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com/books/download/Theoretical_Investigation_of_the_Subsoni.epub?id=Tg8Qnm-g83EC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=Tg8Qnm-g83EC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "which yields increases in <b>flutter</b> speeds at subsonic and low supersonic speeds <br>\ncan result in a lowering of the <b>flutter</b> speed at higher Mach numbers . For any <br>\nMach number the <b>flutter</b> conditions shown in figure 2 at low ws values of are <br>\ngiven by&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "M_QHGJm-KmwC",
+        "etag": "7v+xz/PKp4o",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/M_QHGJm-KmwC",
+        "volumeInfo": {
+          "title": "Some Effects of Fluid in Pylon-mounted Tanks on Flutter",
+          "authors": [
+            "James R. Reese"
+          ],
+          "publishedDate": "1955",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OSU:32435066764317"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 7,
+          "printType": "BOOK",
+          "categories": [
+            "Aerodynamics"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=M_QHGJm-KmwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=M_QHGJm-KmwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=M_QHGJm-KmwC&pg=PP11&dq=Flutter&hl=&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=M_QHGJm-KmwC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=M_QHGJm-KmwC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=M_QHGJm-KmwC&rdid=book-M_QHGJm-KmwC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com/books/download/Some_Effects_of_Fluid_in_Pylon_mounted_T.epub?id=M_QHGJm-KmwC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=M_QHGJm-KmwC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "SOME EFFECTS OF FLUID IN PYLON-MOUNTED TANKS ON <b>FLUTTER</b>. James <br>\nR. Reese. July 1955. 7p. diagrs., tab. (NACA RM L55F10) Copies obtainable <br>\nfrom NACA, washington (over) NACA RM L55F10 National Advisory Committee <br>\nfor&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "bendTxE6xdcC",
+        "etag": "s1Jdin1VzGA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bendTxE6xdcC",
+        "volumeInfo": {
+          "title": "An Experimental Study of the Flutter of Sails Having a Delta Planform Tested from a Mach Number of 0.1 to a Mach Number of 1.9",
+          "authors": [
+            "Robert W. Hess"
+          ],
+          "publishedDate": "1961",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UIUC:30112106566380"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 39,
+          "printType": "BOOK",
+          "categories": [
+            "Aerodynamics, Supersonic"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.2.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bendTxE6xdcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bendTxE6xdcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=bendTxE6xdcC&pg=PA18&dq=Flutter&hl=&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=bendTxE6xdcC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bendTxE6xdcC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=bendTxE6xdcC&rdid=book-bendTxE6xdcC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.com/books/download/An_Experimental_Study_of_the_Flutter_of.epub?id=bendTxE6xdcC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=bendTxE6xdcC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "<b>FLUTTER</b> TEST RESULTS - Continued ( a ) Small - model tests - Continued <br>\nAngle of 9 , Mach &amp; , Pt , <b>Flutter</b> frequency , P , slugs / cu ft cps Sail Spar Remarks <br>\ndeg Run attack , a , 10/89 ft number ft / sec 10 / sq ft OR Model 78 ; teflon , cable&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "LtYgtyrTymAC",
+        "etag": "jTkS5SpvEvc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/LtYgtyrTymAC",
+        "volumeInfo": {
+          "title": "Flutter",
+          "authors": [
+            "Melissa Andrea"
+          ],
+          "publisher": "Melissa Andrea Henderson",
+          "publishedDate": "2012-11-05",
+          "description": "SaraSara's life is forever changed - Waking up, buried & hidden deeply in the last place anyone would want to be, will do that. She is determined to find out how she ended up there & why, but when the only person who can help her, continuously lies to her, she finds herself forced to suffer alone. She can't ignore the strange things that begin to happen to her nor can she hide from the nightmares that haunt her sleep. And when her world collides with Adan - the mysterious boy whom she can't seem to stay away from, literally - she is consumed by the flutter that sparks whenever he is around and she is desperate to discover the reason why. AdanAdan's mission to find Sara has finally begun - It seemed simple: bring her back to the enchanted world that lives, breathes and survives because of her, but he quickly finds himself faced with an entirely new challenge. Immediately, Adan realizes that staying unknown to Sara is a task he will fail before he even begins; the pull to her is far too strong to refuse, but being with her will defy the very reason he existed. He is the key to her survival and being with her is not part of the path that he was born to follow. Can he find it in himself too resist the urge to be with or will he destroy everything that had been left to Sara to protect and defend.FlutterAs Sara and Adan struggle to overcome their own separate battles - There is a far more determined evil that is stalking the shadows and waiting to annihilate them both. Together they will fight to change the rules and rewrite their fate.",
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 442,
+          "printType": "BOOK",
+          "categories": [
+            "Fantasy fiction"
+          ],
+          "averageRating": 2.5,
+          "ratingsCount": 4,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=LtYgtyrTymAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=LtYgtyrTymAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=LtYgtyrTymAC&pg=PA87&dq=Flutter&hl=&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=LtYgtyrTymAC&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Flutter.html?hl=&id=LtYgtyrTymAC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=LtYgtyrTymAC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... few yards to the shed by thinking about something else; I would probably be <br>\nless clumsy that way. I knew what 87 <b>Flutter</b>."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "r4RuXqUewSQC",
+        "etag": "zv0dl8Yv2b0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/r4RuXqUewSQC",
+        "volumeInfo": {
+          "title": "Flutter",
+          "subtitle": "A Very Special Pigeon",
+          "authors": [
+            "Marjorie Barclay"
+          ],
+          "publisher": "AuthorHouse",
+          "publishedDate": "2010-08",
+          "description": "Flutter, the pigeon, begins his story shortly after birth and describes his life growing up in the loft, as well as the training process he goes through on his way to becoming a racer. His thoughts are often humorous and the descriptive photographs will delight your children.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781452063621"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1452063621"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 40,
+          "printType": "BOOK",
+          "categories": [
+            "Juvenile Nonfiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=r4RuXqUewSQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=r4RuXqUewSQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=r4RuXqUewSQC&pg=PA5&dq=Flutter&hl=&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=r4RuXqUewSQC&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Flutter.html?hl=&id=r4RuXqUewSQC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Flutter-sample-epub.acsm?id=r4RuXqUewSQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=r4RuXqUewSQC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "HaDSL0VSZPMC",
+        "etag": "kZPDE4vsEtA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HaDSL0VSZPMC",
+        "volumeInfo": {
+          "title": "Flutter",
+          "authors": [
+            "Momoko Tenzen"
+          ],
+          "publisher": "Digital Manga, Inc.",
+          "publishedDate": "2012",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1613134126"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781613134122"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Gay men"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.1.1.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HaDSL0VSZPMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HaDSL0VSZPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=HaDSL0VSZPMC&pg=PT57&dq=Flutter&hl=&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=HaDSL0VSZPMC&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Flutter.html?hl=&id=HaDSL0VSZPMC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Flutter-sample-epub.acsm?id=HaDSL0VSZPMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=HaDSL0VSZPMC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "6hDtBQAAQBAJ",
+        "etag": "qNCxVH9PGJU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/6hDtBQAAQBAJ",
+        "volumeInfo": {
+          "title": "Treatment of atrial flutter",
+          "authors": [
+            "Sics Editore"
+          ],
+          "publisher": "SICS Editore",
+          "publishedDate": "2015-05-21",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788869301094"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8869301095"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Medical"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=6hDtBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=6hDtBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=6hDtBQAAQBAJ&pg=PT10&dq=Flutter&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=6hDtBQAAQBAJ&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Treatment_of_atrial_flutter.html?hl=&id=6hDtBQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Treatment_of_atrial_flutter-sample-epub.acsm?id=6hDtBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Treatment_of_atrial_flutter-sample-pdf.acsm?id=6hDtBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=6hDtBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Digoxin may convert atrial <b>flutter</b> to atrial fibrillation whichisbetter tolerated. <br>\nThefirst-line treatment fortherestoration ofsinus rhythmiselectrical cardioversion (<br>\nevidence Management ofacute atrial fibrillationA[1]) (see below &#39;Electrical&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "JR4NAQAAQBAJ",
+        "etag": "49gJ72MfFaY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/JR4NAQAAQBAJ",
+        "volumeInfo": {
+          "title": "Miss Flutter Remembers",
+          "authors": [
+            "Henrietta Barbara Sims"
+          ],
+          "publisher": "Kaeden Corporation",
+          "publishedDate": "2007-01-01",
+          "description": "Fiction, Reading Recovery Level 20, F&P Level L, DRA2 Level 24, Theme Science/Insects, Stage Transitional-Early Fluent, Character N/A",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781578743339"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1578743338"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 36,
+          "printType": "BOOK",
+          "categories": [
+            "Butterflies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.0.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=JR4NAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=JR4NAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=JR4NAQAAQBAJ&pg=PA20&dq=Flutter&hl=&cd=10&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=JR4NAQAAQBAJ&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Miss_Flutter_Remembers.html?hl=&id=JR4NAQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=JR4NAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "<b>Flutter</b>. What are you doing?” she asked. “I am practicing jumping. I&#39;m able to <br>\njump twenty times the length of my body! Everywhere I go I jump, jump, jump,” <br>\nsaid Jumper. “What a special thing to be able to do. I can&#39;t jump, but I can fly all <br>\naround&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "bgBwAwAAQBAJ",
+        "etag": "CVyh5dh1/3g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bgBwAwAAQBAJ",
+        "volumeInfo": {
+          "title": "Flutter By",
+          "authors": [
+            "Sheena Thorne"
+          ],
+          "publisher": "Xlibris Corporation",
+          "publishedDate": "2014-03-28",
+          "description": "Something fluttered by and caught Katie's eye. It wasn't a bee, and it wasn't a bat. What else could it be? Jack is a fun loving little butterfly that is social and sweet. With his new found friend Katie the bee ( Bee-Longing's adorable bee), they learn life lessons and sing songs while teaching others to do the same. Together they enjoy life a little more each day. This whimsical story teaches children how to make life a little sweeter. While showing that it's good to make friends that are different and mistakes are a part of growing, so get out there and get messy. This is an excellent sequel to the whimsical tale of Bee-Longing, who knows where these characters will end up.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781493166817"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1493166816"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 24,
+          "printType": "BOOK",
+          "categories": [
+            "Juvenile Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bgBwAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bgBwAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=bgBwAwAAQBAJ&pg=PA3&dq=Flutter&hl=&cd=11&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=bgBwAwAAQBAJ&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Flutter_By.html?hl=&id=bgBwAwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Flutter_By-sample-epub.acsm?id=bgBwAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Flutter_By-sample-pdf.acsm?id=bgBwAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=bgBwAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Sheena Thorne. <b>Flutter</b> By <b>Flutter</b> By by Sheena Thorne by Sheena Thorne Jack <br>\nis a butterfly. He flies in the sky. Visiting. Title page."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "yljviCvXTAoC",
+        "etag": "GR4dKR75ChU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/yljviCvXTAoC",
+        "volumeInfo": {
+          "title": "Atrial Flutter: New Insights for the Healthcare Professional: 2011 Edition",
+          "subtitle": "ScholarlyPaper",
+          "publisher": "ScholarlyEditions",
+          "publishedDate": "2012-01-09",
+          "description": "Atrial Flutter: New Insights for the Healthcare Professional: 2011 Edition is a ScholarlyPaper™ that delivers timely, authoritative, and intensively focused information about Atrial Flutter in a compact format. The editors have built Atrial Flutter: New Insights for the Healthcare Professional: 2011 Edition on the vast information databases of ScholarlyNews.™ You can expect the information about Atrial Flutter in this eBook to be deeper than what you can access anywhere else, as well as consistently reliable, authoritative, informed, and relevant. The content of Atrial Flutter: New Insights for the Healthcare Professional: 2011 Edition has been produced by the world’s leading scientists, engineers, analysts, research institutions, and companies. All of the content is from peer-reviewed sources, and all of it is written, assembled, and edited by the editors at ScholarlyEditions™ and available exclusively from us. You now have a source you can cite with authority, confidence, and credibility. More information is available at http://www.ScholarlyEditions.com/.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781464919114"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1464919119"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 15,
+          "printType": "BOOK",
+          "categories": [
+            "Medical"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=yljviCvXTAoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=yljviCvXTAoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=yljviCvXTAoC&pg=PP10&dq=Flutter&hl=&cd=12&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=yljviCvXTAoC&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Atrial_Flutter_New_Insights_for_the_Heal.html?hl=&id=yljviCvXTAoC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Atrial_Flutter_New_Insights_for_the_Heal-sample-pdf.acsm?id=yljviCvXTAoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=yljviCvXTAoC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Penn State Heart and Vascular Institute, Hershey: Dronedarone for the treatment <br>\nof atrial fibrillation and atrial <b>flutter</b>: approval and efficacy Scientists discuss in &#39;<br>\nDronedarone for the treatment of atrial fibrillation and atrial <b>flutter</b>: approval and&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "1FpnsseOjDoC",
+        "etag": "xco6ix9KP9Y",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/1FpnsseOjDoC",
+        "volumeInfo": {
+          "title": "Flutter-Bys",
+          "authors": [
+            "Amy McLauchlan"
+          ],
+          "publisher": "Lapwing Publications",
+          "publishedDate": "2011-01-01",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781907276705"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "190727670X"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 84,
+          "printType": "BOOK",
+          "categories": [
+            "Poetry"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=1FpnsseOjDoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=1FpnsseOjDoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=1FpnsseOjDoC&pg=PA32&dq=Flutter&hl=&cd=13&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=1FpnsseOjDoC&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Flutter_Bys.html?hl=&id=1FpnsseOjDoC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=1FpnsseOjDoC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... by eyes suggestive Taken somewhere she wasn&#39;t keen And let it happen She <br>\nslowly cried a solitude tear From the eyes that used to be vibrant blue And used <br>\nto be honest too But now they were 32 <b>Flutter</b>-bys Cool Shades 29 Age 15."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "MYKIpxhbLVwC",
+        "etag": "KhXRdIjrwcQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/MYKIpxhbLVwC",
+        "volumeInfo": {
+          "title": "Flutter Flies Away",
+          "subtitle": "A Book about Rules",
+          "authors": [
+            "Lpc Kimberly Kline"
+          ],
+          "publisher": "AuthorHouse",
+          "publishedDate": "2009-08-01",
+          "description": "Flutter gets too frustrated with all the rules. See what happens when he decides to test them. Enjoy Flutter's journey to learn the value of rules in this clever and uniquely illustrated book. Flutter is the first in this 6 book series for kids. Make sure to discuss the questions in the back!",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781438997476"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1438997477"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 32,
+          "printType": "BOOK",
+          "categories": [
+            "Family & Relationships"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.0.0.preview.1",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=MYKIpxhbLVwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=MYKIpxhbLVwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=MYKIpxhbLVwC&pg=PA70&dq=Flutter&hl=&cd=14&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=MYKIpxhbLVwC&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Flutter_Flies_Away.html?hl=&id=MYKIpxhbLVwC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=MYKIpxhbLVwC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "Kwu8AAAAIAAJ",
+        "etag": "ThLxJYQfQ7Q",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Kwu8AAAAIAAJ",
+        "volumeInfo": {
+          "title": "A Bit of a Flutter",
+          "subtitle": "Popular Gambling and English Society, C. 1823-1961",
+          "authors": [
+            "Mark Clapson"
+          ],
+          "publisher": "Manchester University Press",
+          "publishedDate": "1992-01-01",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0719034361"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780719034367"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 232,
+          "printType": "BOOK",
+          "categories": [
+            "Social Science"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.1.0.preview.1",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Kwu8AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Kwu8AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=Kwu8AAAAIAAJ&pg=PA72&dq=Flutter&hl=&cd=15&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=Kwu8AAAAIAAJ&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/A_Bit_of_a_Flutter.html?hl=&id=Kwu8AAAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=Kwu8AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... previous legislation and its consequences. The new dispensation also had to <br>\nbe structured to provide a system which could be monitored by the police and <br>\ntaxed by government. Otherwise street betting could have carried 72 A bit of a <br>\n<b>flutter</b>."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "lVlVAgAAQBAJ",
+        "etag": "AgzTtK9Db2A",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/lVlVAgAAQBAJ",
+        "volumeInfo": {
+          "title": "Henri and the Flutter-By",
+          "authors": [
+            "Nick Bagwell"
+          ],
+          "publisher": "AuthorHouse",
+          "publishedDate": "2013-12-06",
+          "description": "Share a day with Henri as he enjoys a beautiful day with his mum.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781491881903"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1491881909"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 24,
+          "printType": "BOOK",
+          "categories": [
+            "Juvenile Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.3.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=lVlVAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=lVlVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=lVlVAgAAQBAJ&pg=PT4&dq=Flutter&hl=&cd=16&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=lVlVAgAAQBAJ&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Henri_and_the_Flutter_By.html?hl=&id=lVlVAgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Henri_and_the_Flutter_By-sample-epub.acsm?id=lVlVAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Henri_and_the_Flutter_By-sample-pdf.acsm?id=lVlVAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=lVlVAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Nick Bagwell. Henri and the <b>Flutter</b>-By It started one morning, Sleepy eyed and <br>\nyawning. TITLE."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "Eg0Ywy3KA3QC",
+        "etag": "wbZoSnb1/eI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Eg0Ywy3KA3QC",
+        "volumeInfo": {
+          "title": "A Flutter of Butterflies",
+          "authors": [
+            "Michael F. Braby",
+            "Penny Olsen"
+          ],
+          "publisher": "National Library Australia",
+          "publishedDate": "2011",
+          "description": "As well as containing a plethora of gorgeous colour images, this book features a fascinating introductory essay about the history of Australian Lepidoptera illustration. In addition to the essay, the book offers biographical essays about the artists represented, among whom are some of Australia's most-loved artists, including Louisa Anne Meredith, Marian Ellis Rowan and Charles McCubbin.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780642277251"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0642277257"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 106,
+          "printType": "BOOK",
+          "categories": [
+            "Butterflies in art"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.0.0.0.preview.1",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Eg0Ywy3KA3QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Eg0Ywy3KA3QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=Eg0Ywy3KA3QC&pg=PA92&dq=Flutter&hl=&cd=17&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=Eg0Ywy3KA3QC&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/A_Flutter_of_Butterflies.html?hl=&id=Eg0Ywy3KA3QC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=Eg0Ywy3KA3QC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "H_Uz9gVcMLYC",
+        "etag": "MK1i1ALRuhw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/H_Uz9gVcMLYC",
+        "volumeInfo": {
+          "title": "A Flutter on Earth",
+          "authors": [
+            "Jane Nielsen"
+          ],
+          "publisher": "iUniverse",
+          "publishedDate": "2004-02-09",
+          "description": "The writing of A Flutter on Earth has been a sometimes joyful, at times painful, but always illuminating excursion in to the self. Throughout the years, books of poetry have been literary companions that have deepened my appreciation for life. I value the poem as a truly unique art form. The immense power of its words seeks truth and values intimacy. The poem is a vehicle of meaning that shapes illusive thoughts and feelings in to a beautiful melody of form and content. For me, poetry is a large part of who I am and how I see the world. It is my hope that you will enjoy this book of poetry as my particular attempt to sculpt thoughts and feelings into poetic form.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780595757015"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0595757014"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 82,
+          "printType": "BOOK",
+          "categories": [
+            "Poetry"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=H_Uz9gVcMLYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=H_Uz9gVcMLYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=H_Uz9gVcMLYC&pg=PT58&dq=Flutter&hl=&cd=18&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=H_Uz9gVcMLYC&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/A_Flutter_on_Earth.html?hl=&id=H_Uz9gVcMLYC"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/A_Flutter_on_Earth-sample-epub.acsm?id=H_Uz9gVcMLYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/A_Flutter_on_Earth-sample-pdf.acsm?id=H_Uz9gVcMLYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=H_Uz9gVcMLYC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "bSlaAAAAcAAJ",
+        "etag": "aspxs9DITSQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bSlaAAAAcAAJ",
+        "volumeInfo": {
+          "title": "The Man of Mode, Or, Sir Fopling Flutter",
+          "subtitle": "A Comedy",
+          "authors": [
+            "George Etherege"
+          ],
+          "publishedDate": "1703",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KBNL:KBNL03000124062"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 109,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.2.2.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bSlaAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bSlaAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=bSlaAAAAcAAJ&pg=PA259&dq=Flutter&hl=&cd=19&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=bSlaAAAAcAAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bSlaAAAAcAAJ"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=bSlaAAAAcAAJ&rdid=book-bSlaAAAAcAAJ&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.com/books/download/The_Man_of_Mode_Or_Sir_Fopling_Flutter.pdf?id=bSlaAAAAcAAJ&hl=&output=pdf&sig=ACfU3U31Uyh0wPm1kK1wpJkIXp_C72pTvQ&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=bSlaAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... heavy on her Stomach. Lov. Have her into my Chamber, give her some Surfeit <br>\nWater, and let hér lye down a little. Pert. Come, Madam, I was a strange Devourer <br>\n- S 2. of Of Fruit when I was young, so Ravenous [Ex. Bell, Sir Fopling <b>Flutter</b>."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "rZCVAAAAQBAJ",
+        "etag": "nk98Nij2jHU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/rZCVAAAAQBAJ",
+        "volumeInfo": {
+          "title": "Flutter the Butterfly Who Found a Home with Jesus",
+          "authors": [
+            "Dolores Gambino"
+          ],
+          "publisher": "AuthorHouse",
+          "publishedDate": "2011-09-01",
+          "description": "This book is about a little butterfly who was just learning how to fly when his motherflew away with a bunch of friends and forgot all about her little Flutter; leaving himbehind. Since he was now all alone, he had to find a new home. With the help ofJesus, he found not only a new home, but a new friend for life.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781463448820"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1463448821"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 24,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=rZCVAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=rZCVAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=rZCVAAAAQBAJ&pg=PT3&dq=Flutter&hl=&cd=20&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=rZCVAAAAQBAJ&dq=Flutter&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Flutter_the_Butterfly_Who_Found_a_Home_w.html?hl=&id=rZCVAAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "NG",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "NG",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Flutter_the_Butterfly_Who_Found_a_Home_w-sample-epub.acsm?id=rZCVAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=rZCVAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "<b>Flutter</b>; a butterfly, was a beautiful&nbsp;..."
+        }
+      }
+    ]
+  }
