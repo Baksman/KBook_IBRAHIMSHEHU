@@ -24,6 +24,7 @@ class ShowFavoriteBook extends BookEvent{
 
 }
 
+
 class LoadMoreBook extends BookEvent {
   final List<Book> books;
 

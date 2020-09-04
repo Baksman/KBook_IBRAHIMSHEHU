@@ -20,12 +20,36 @@ class Book {
     //  final Map<String,String> images =
     return Book(
         title: json["volumeInfo"]["title"],
-        pdfUrl: (json["accessInfo"]["pdf"] as Map)["acsTokenLink"],
-        description: json["volumeInfo"]["description"] as String,
-        imageUrl: (json["volumeInfo"]["imageLinks"] as Map)["thumbnail"],
-        author: (json["volumeInfo"] as Map)["authors"][0] ,
+        pdfUrl: (json["accessInfo"] as Map)["pdf"]["acsTokenLink"],
+        description: (json["volumeInfo"]["description"]) as String,
+        // imageUrl: (json["volumeInfo"]["imageLinks"] as Map) ["thumbnail"] as String,
+        // author: json ["volumeInfo"] == null ? json["volumeInfo"]["authors"][0]:"No author" ,
         id: json["id"],
         isAvailable: (json["accessInfo"]["pdf"] as Map)["isAvailable"]);
+  }
+
+  Map<String, dynamic> toJson() {
+    return {
+      "title": title,
+      "pdfUrl": pdfUrl,
+      "isAvalaible": isAvailable,
+      "id": id,
+      "author": author,
+      "description": description,
+      "imageUrl": imageUrl
+    };
+  }
+
+  factory Book.fromStorage(Map<String, dynamic> map) {
+    return Book(
+      author: map["author"],
+      description: map["description"],
+      id: map["id"],
+      imageUrl: map["imageUrl"],
+      isAvailable: map["isAvailable"],
+      pdfUrl: map["pdfUrl"],
+      title: map["title"],
+    );
   }
 
   @override

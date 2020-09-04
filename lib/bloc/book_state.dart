@@ -21,9 +21,22 @@ class BookLoadedState extends BookState {
 
   @override
   String toString() {
-    // TODO: implement toString
     return "the books are $books";
   }
 }
 
 class BookErrorState extends BookState {}
+
+class BookFavouriteState extends BookState {
+  final List<Book> books;
+
+  BookFavouriteState(this.books);
+
+  @override
+  List<Object> get props => [books];
+
+  @override
+  String toString() {
+    return "the books are $books";
+  }
+}

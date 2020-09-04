@@ -23,27 +23,18 @@ class BookRepository extends BaseBookRepository {
 
     try {
       http.Response response = await _httpClient.get(requestUrl);
-      print("status code is ${response.statusCode}");
+     
       if (response.statusCode == 200) {
         Map<dynamic, dynamic> data = json.decode(response.body);
-        // print(data);
         List bookList = data["items"] ;
-
-        // Map eachmap = bookList[0] as Map;
-        // print("the datas are $bookList");
         bookList.forEach((book) {
-          // print("$book \n \n");
-
           books.add(Book.fromJson(book));
         });
       }
 
-      print("i got here");
-      // print(books);
-      print(books);
       return books;
-    } catch (e, s) {
-      print(e);
+    } catch (e, _) {
+
       throw (e);
     }
   }

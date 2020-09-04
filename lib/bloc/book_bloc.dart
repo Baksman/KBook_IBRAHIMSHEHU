@@ -23,7 +23,7 @@ class BookBloc extends Bloc<BookEvent, BookState> {
   }
 
   Stream<BookState> _mapLoadNoreBookToState(LoadMoreBook event) async* {
-    final int nextIndex = (event.books.length ~/ BookRepository.perPage);
+    final int nextIndex = event.books.length + 1;
     yield* _getBooks(books: event.books, startIndex: nextIndex);
   }
 
