@@ -1,9 +1,7 @@
 import 'package:KBook_IbrahimShehu/models/book.dart';
 import 'package:KBook_IbrahimShehu/utils/favourite.dart';
-
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import 'package:url_launcher/url_launcher.dart';
 
 class BookDetailsScreen extends StatefulWidget {
@@ -27,12 +25,11 @@ class _BookDetailsScreenState extends State<BookDetailsScreen> {
               Container(
                 height: 200,
                 width: double.infinity,
-                decoration: BoxDecoration(color: Colors.teal
-                    // image: DecorationImage(
-                    //     fit: BoxFit.cover,
-                    //     image:
-                    //         NetworkImage(widget.book.imageUrl))
-                    ),
+                decoration: BoxDecoration(
+                    color: Colors.teal,
+                    image: DecorationImage(
+                        fit: BoxFit.cover,
+                        image: NetworkImage(widget.book.imageUrl))),
               ),
               Positioned(
                   left: 10,

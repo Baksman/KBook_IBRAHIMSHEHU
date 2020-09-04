@@ -1,6 +1,7 @@
 import 'package:KBook_IbrahimShehu/bloc/book_bloc.dart';
 import 'package:KBook_IbrahimShehu/models/book.dart';
 import 'package:KBook_IbrahimShehu/screens/details_screen.dart';
+import 'package:KBook_IbrahimShehu/utils/drop_down_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -11,7 +12,7 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   final _scrollController = ScrollController();
-
+  DropdownUtils _dUtils = DropdownUtils();
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -38,20 +39,46 @@ class _HomeScreenState extends State<HomeScreen> {
         // onNotification: () {},
         onNotification: (notification) =>
             _onScrollNotification(notification, state),
-        child: ListView.builder(
-            controller: _scrollController,
-            itemCount: state.books.length,
-            itemBuilder: (ctx, index) {
-              Book book = state.books[index];
-              return ListTile(
-                onTap: () {
-                  Navigator.push(context, MaterialPageRoute(builder: (ctx) {
-                    return BookDetailsScreen(book);
-                  }));
-                },
-                title: Text(book.title),
-              );
-            }),
+        child: Column(
+          children: [
+            DropdownButton<String>(
+                value: _dUtils.value,
+                items: [
+                  ..._dUtils.items
+                      .map((e) => DropdownMenuItem(
+                            child: Text(e),
+                            value: e,
+                          ))
+                      .toList(),
+                ],
+                onChanged: (String val) {
+                  if (val == "Favorite") {
+                    context.bloc<BookBloc>().add(ShowFavoriteBook(state.books));
+                  }
+                  context.bloc<BookBloc>().add(AppStarted());
+
+                  _dUtils.setState(val);
+                }),
+            Expanded(
+              child: ListView.builder(
+                  controller:
+                      state is BookLoadedState ? _scrollController : null,
+                  itemCount: state.books.length,
+                  itemBuilder: (ctx, index) {
+                    Book book = state.books[index];
+                    return ListTile(
+                      onTap: () {
+                        Navigator.push(context,
+                            MaterialPageRoute(builder: (ctx) {
+                          return BookDetailsScreen(book);
+                        }));
+                      },
+                      title: Text(book.title),
+                    );
+                  }),
+            ),
+          ],
+        ),
       );
     }
     if (state is BookErrorState) {

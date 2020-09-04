@@ -22,8 +22,9 @@ class Book {
         title: json["volumeInfo"]["title"],
         pdfUrl: (json["accessInfo"] as Map)["pdf"]["acsTokenLink"],
         description: (json["volumeInfo"]["description"]) as String,
-        // imageUrl: (json["volumeInfo"]["imageLinks"] as Map) ["thumbnail"] as String,
-        // author: json ["volumeInfo"] == null ? json["volumeInfo"]["authors"][0]:"No author" ,
+        imageUrl:
+            (json["volumeInfo"]["imageLinks"] as Map)["thumbnail"] as String,
+        author: json["volumeInfo"]["authors"][0],
         id: json["id"],
         isAvailable: (json["accessInfo"]["pdf"] as Map)["isAvailable"]);
   }
