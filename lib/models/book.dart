@@ -20,11 +20,11 @@ class Book {
     //  final Map<String,String> images =
     return Book(
         title: json["volumeInfo"]["title"],
-        pdfUrl: (json["accessInfo"] as Map)["pdf"]["acsTokenLink"],
+        pdfUrl: (json["accessInfo"]["pdf"])["acsTokenLink"],
         description: (json["volumeInfo"]["description"]) as String,
-        imageUrl:
-            (json["volumeInfo"]["imageLinks"] as Map)["thumbnail"] as String,
-        author: json["volumeInfo"]["authors"][0],
+        // imageUrl:
+        //     (json["volumeInfo"]["imageLinks"] as Map)["smallThumbnail"] as String,
+        // author: (json["volumeInfo"]["authors"] as List)[0],
         id: json["id"],
         isAvailable: (json["accessInfo"]["pdf"] as Map)["isAvailable"]);
   }

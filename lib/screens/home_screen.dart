@@ -54,9 +54,10 @@ class _HomeScreenState extends State<HomeScreen> {
                 onChanged: (String val) {
                   if (val == "Favorite") {
                     context.bloc<BookBloc>().add(ShowFavoriteBook(state.books));
+                    _dUtils.setState(val);
+                    return;
                   }
                   context.bloc<BookBloc>().add(AppStarted());
-
                   _dUtils.setState(val);
                 }),
             Expanded(

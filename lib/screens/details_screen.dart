@@ -12,9 +12,11 @@ class BookDetailsScreen extends StatefulWidget {
 }
 
 class _BookDetailsScreenState extends State<BookDetailsScreen> {
+  // bool isFavorite;
   @override
   Widget build(BuildContext context) {
     Favorite provider = Provider.of<Favorite>(context);
+// isFavorite =await provider.isFavorite(widget.book.id);
 
     return Scaffold(
       body: ListView(
@@ -26,15 +28,17 @@ class _BookDetailsScreenState extends State<BookDetailsScreen> {
                 height: 200,
                 width: double.infinity,
                 decoration: BoxDecoration(
-                    color: Colors.teal,
-                    image: DecorationImage(
-                        fit: BoxFit.cover,
-                        image: NetworkImage(widget.book.imageUrl))),
+                  color: Colors.teal,
+                  // image: DecorationImage(
+                  //     fit: BoxFit.cover,
+                  //     image: NetworkImage(widget.book.imageUrl))
+                ),
               ),
               Positioned(
                   left: 10,
                   bottom: 10,
-                  child: provider.isFavorite(widget.book.id)
+                  child: true
+                      // child: provider.isFavorite(widget.book.id)
                       ? IconButton(
                           icon: Icon(Icons.favorite_border_sharp),
                           onPressed: () {

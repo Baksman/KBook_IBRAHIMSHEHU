@@ -27,6 +27,8 @@ class BookLoadedState extends BookState {
 
 class BookErrorState extends BookState {}
 
+
+
 class BookFavouriteState extends BookState {
   final List<Book> books;
 

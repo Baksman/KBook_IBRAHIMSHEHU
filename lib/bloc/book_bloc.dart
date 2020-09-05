@@ -47,17 +47,18 @@ class BookBloc extends Bloc<BookEvent, BookState> {
     yield* _getBooks(books: []);
   }
 
-  Stream<BookState> _mapFavoriteToState(BookEvent event) async* {
+  Stream<BookState> _mapFavoriteToState(ShowFavoriteBook event) async* {
     yield BookLoadingState();
+    // await Future.delayed(Duration(seconds: 2));
     yield* _getSavedBoks();
   }
 
-  _getSavedBoks() async* {
+  Stream<BookState> _getSavedBoks() async* {
     try {
       List<Book> savedBooks = await _sharedPref.getAllFavorites();
       yield BookLoadedState(savedBooks);
-    } catch (e) {
-      print(e);
+    } catch (e, s) {
+      print(s);
       yield BookErrorState();
     }
   }
